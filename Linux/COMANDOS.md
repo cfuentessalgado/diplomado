@@ -2,7 +2,7 @@
 
 ##Comandos Basicos
 Comando | Uso
-------------------------------------------------------------------------------------------------
+--------|-----
  **|**    "_Pipe_" | Redirije la salida estandar
  **sudo** _[comando]_ | Ejecuta _[comando]_ en modo super usuario
  **man** _[comando]_ | Muestra la entrada de manual del _[comando]_

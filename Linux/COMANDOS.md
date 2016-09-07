@@ -14,15 +14,8 @@ Comando | Uso
 
 ##Manejo de Archivos y permisos
 
-* **chmod** <opciones> _[archivo]_   Modifica los permisos de _[archivo]_
-```bash
-#ejemplo de uso agrega permiso de ejecucion a script.sh para el dueño y el grupo 
-chmod ug+x script.sh
-```
-
-* **find**    Busca archivo Ej:
-```bash
-find . -name script.sh
-```
-
-* **rm -rf** _[carpeta]_    Borra _[carpeta]_ y sus archivos
+Comando | Uso
+--------|----
+**chmod** <opciones> _[archivo]_ | Modifica los permisos de _[archivo]_ `chmod ug+x script.sh`
+**find** |  Busca archivo Ej: `find . -name script.sh`
+**rm -rf** _[carpeta]_ | Borra _[carpeta]_ y sus archivos

@@ -1,4 +1,4 @@
-## A continuacion describire los principales archivos de configuracion de Distros basadas en RHEL
+## A continuacion describire los principales archivos de configuracion de Linux
 
 * **_/etc/host.conf_** : Este archivo se encarga de configurar como se buscan los nombres de dominio, basicamente el orden de busqueda.
 ```bash
